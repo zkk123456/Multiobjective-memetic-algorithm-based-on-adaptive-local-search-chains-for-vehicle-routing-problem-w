@@ -1,0 +1,87 @@
+﻿  mdls_change.cpp
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(145): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(148): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(160): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(511): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(401): warning C4101: “time_mod”: 未引用的局部变量
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(399): warning C4101: “time_org”: 未引用的局部变量
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(590): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(595): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(633): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(652): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(658): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1172): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1230): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1286): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1354): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1587): warning C4101: “j1”: 未引用的局部变量
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1645): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1648): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1685): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1688): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1706): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1731): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1807): warning C4101: “div”: 未引用的局部变量
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1919): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1966): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(1967): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2020): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2021): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2022): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 参见“itoa”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2023): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2025): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2026): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 参见“itoa”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2027): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2029): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2030): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 参见“itoa”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2031): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2033): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2068): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2136): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2080): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2081): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2082): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2090): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2092): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 参见“itoa”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2093): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2094): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2122): error C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 参见“itoa”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2123): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2124): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2125): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2126): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2130): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(242): note: 参见“freopen”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2148): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2149): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2150): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+c:\users\kk\source\repos\mdls_change\mdls_change\mdls_change.cpp(2151): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(242): note: 参见“freopen”的声明
